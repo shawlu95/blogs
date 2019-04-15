@@ -38,4 +38,4 @@ ___
 __The Power of A/B Testing__ ([5 min read](https://towardsdatascience.com/the-power-of-a-b-testing-3387c04a14e3?source=friends_link&sk=eb9621b10f5af99d95584ac1d0fb7a71))
 
 *A visual summary of how sample size, effect size and significance level affect the power of A/B testing*
-![alt-text](04_ab_test/sample_size.gif)
+![alt-text](04_ab_test/size.gif)
