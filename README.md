@@ -1,5 +1,7 @@
 # Data Science Blogs
-This page contains friend links to directly access my Medium blog posts. 
+All blogs are published in *Toward Data Science* for which I am an official author. Except for my first blog, all blogs are restricted to paid members only. Non-members can only read up to a certain limit per month.
+
+This page contains friend links to directly access __all__ my Medium blog posts. 
 
 ___ 
 __Beyond A/B Testing: Multi-armed Bandit Experiments__ ([link](https://towardsdatascience.com/beyond-a-b-testing-multi-armed-bandit-experiments-1493f709f804?source=friends_link&sk=b30f5cfa1ff225099cb512dd6653cf3d))
@@ -12,7 +14,7 @@ __Feature Engineering in SQL and Python: A Hybrid Approach__ ([link](https://tow
 *Reduce workspace clutter, maintain a clean namespace, and effortlessly keep your dataset up-to-date*
 
 ___
-__The Elements of Viral Growth: An Application of Graph Embedding Model__ ([link](https://towardsdatascience.com/https-towardsdatascience-com-the-elements-of-viral-growth-7f364aec64eb?source=friends_link&sk=eb19423d3e8df3d1cd70a30dade9cff0))
+__Seeding Viral Growth: An Application of Graph Embedding__ ([link](https://towardsdatascience.com/https-towardsdatascience-com-the-elements-of-viral-growth-7f364aec64eb?source=friends_link&sk=eb19423d3e8df3d1cd70a30dade9cff0))
 
 *Simulating different seeding techniques to maximize information diffusion in a network*
 
