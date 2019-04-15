@@ -1,5 +1,5 @@
 # Data Science Blogs
-All blogs are published in *Toward Data Science* for which I am an official author. Except for my first blog, all blogs are restricted to paid members only. Non-members can only read up to a certain limit per month.
+All blogs are published in *__Toward Data Science__* for which I am an official author. Except for my first blog, all blogs are restricted to paid members only. Non-members can only read up to a certain limit per month.
 
 This page contains friend links to directly access __all__ my Medium blog posts. 
 
