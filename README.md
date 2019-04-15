@@ -1,7 +1,7 @@
 # Data Science Blogs
 All blogs are published in *__Toward Data Science__* for which I am an official author. Except for my first blog, all blogs are restricted to paid members only. Non-members can only read up to a certain limit per month.
 
-This page contains friend links to directly access __all__ my Medium blog posts. 
+This page contains friend links to directly access __all__ my Medium blog posts without limit or membership requirement. 
 
 ___ 
 __Beyond A/B Testing: Multi-armed Bandit Experiments__ ([link](https://towardsdatascience.com/beyond-a-b-testing-multi-armed-bandit-experiments-1493f709f804?source=friends_link&sk=b30f5cfa1ff225099cb512dd6653cf3d))
