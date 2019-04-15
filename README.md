@@ -23,6 +23,10 @@ __Feature Engineering in SQL and Python: A Hybrid Approach__ ([5 min read](https
 
 *Reduce workspace clutter, maintain a clean namespace, and effortlessly keep your dataset up-to-date*
 
+<p align="center">
+    <img src="05_sql/cover.png" alt="Image" height="250" />
+</p>
+
 ___
 __Visualizing Beta Distribution and Bayesian Updating__ ([6 min read](https://towardsdatascience.com/visualizing-beta-distribution-7391c18031f1?source=friends_link&sk=97d1259bbf57fe2aa2cf1e05be4e55ba))
 
