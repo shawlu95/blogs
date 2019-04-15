@@ -12,7 +12,7 @@ __Feature Engineering in SQL and Python: A Hybrid Approach__ ([link](https://tow
 *Reduce workspace clutter, maintain a clean namespace, and effortlessly keep your dataset up-to-date*
 
 ___
-__The Elements of Viral Growth: An Application of Graph Embedding Model__ ([link](https://towardsdatascience.com/https-towardsdatascience-com-the-elements-of-viral-growth-7f364aec64eb))
+__The Elements of Viral Growth: An Application of Graph Embedding Model__ ([link](https://towardsdatascience.com/https-towardsdatascience-com-the-elements-of-viral-growth-7f364aec64eb?source=friends_link&sk=eb19423d3e8df3d1cd70a30dade9cff0))
 
 *Simulating different seeding techniques to maximize information diffusion in a network*
 
