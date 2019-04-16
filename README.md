@@ -15,7 +15,7 @@ __Seeding Viral Growth: An Application of Graph Embedding__ ([6 min read](https:
 *Simulating different seeding techniques to maximize information diffusion in a network*
 
 <p align="center">
-    <img src="06_seeding/politician.gif" alt="Image" width="400" height="400" />
+    <img src="06_seeding/politician.gif" alt="Image" height="400" />
 </p>
 
 ___
