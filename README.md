@@ -28,7 +28,7 @@ __Feature Engineering in SQL and Python: A Hybrid Approach__ ([5 min read](https
 </p>
 
 ___
-__Visualizing Beta Distribution and Bayesian Updating__ ([6 min read](https://towardsdatascience.com/visualizing-beta-distribution-7391c18031f1?source=friends_link&sk=97d1259bbf57fe2aa2cf1e05be4e55ba))
+__Visualizing Beta Distribution and Bayesian Updating__ ([3 min read](https://towardsdatascience.com/visualizing-beta-distribution-7391c18031f1?source=friends_link&sk=97d1259bbf57fe2aa2cf1e05be4e55ba))
 
 *Seeing is believing: build intuition by simulating everything, visualizing everything, and inspecting everything*
 ![alt-text](02_beta/updating.gif)
@@ -43,3 +43,9 @@ __The Power of A/B Testing__ ([5 min read](https://towardsdatascience.com/the-po
 
 *A visual summary of how sample size, effect size and significance level affect the power of A/B testing*
 ![alt-text](04_ab_test/size.gif)
+
+___
+__A Graph DB Case Study: Chinese Idioms__ ([5 min read](https://towardsdatascience.com/the-power-of-a-b-testing-3387c04a14e3?source=friends_link&sk=eb9621b10f5af99d95584ac1d0fb7a71))
+
+*Build a Neo4J Graph Database Application with 20 Lines of Python*
+![alt-text](07_idiom/demo_1.gif)
