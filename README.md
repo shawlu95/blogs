@@ -48,4 +48,4 @@ ___
 __A Graph DB Case Study: Chinese Idioms__ ([5 min read](https://towardsdatascience.com/the-power-of-a-b-testing-3387c04a14e3?source=friends_link&sk=eb9621b10f5af99d95584ac1d0fb7a71))
 
 *Build a Neo4J Graph Database Application with 20 Lines of Python*
-![alt-text](07_idiom/demo_1.gif)
+![alt-text](07_idiom/demo.gif)
